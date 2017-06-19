@@ -3,15 +3,11 @@
  */
 package com.coding.demo;
 
-import java.io.Console;
-
 import org.apache.log4j.Logger;
-import org.apache.log4j.spi.LoggerFactory;
 
 import com.coding.shape.triangle.Triangle;
 import com.coding.shape.triangle.TriangleException;
 import com.coding.shape.triangle.TriangleFactory;
-import com.coding.shape.triangle.TriangleType;
 
 /**
  * This class demonstrate usage of features in triangles package.

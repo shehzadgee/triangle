@@ -3,15 +3,9 @@
  */
 package com.coding.demo;
 
-import java.io.BufferedReader;
-import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;
-import java.io.InputStreamReader;
 import java.io.PrintStream;
-import java.nio.CharBuffer;
-
-import javax.xml.transform.stream.StreamResult;
 
 import org.junit.After;
 import org.junit.Assert;

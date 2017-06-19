@@ -42,7 +42,7 @@ public class TriangleFactoryTest {
 	
 	@Test(expected=TriangleException.class)
 	public void testCreateTriangleWithInvalidLength() throws TriangleException{
-		Triangle triangle = triangleFactory.createTriangle(0, 3D, 4D);
+		triangleFactory.createTriangle(0, 3D, 4D);
 	}
 	
 	
